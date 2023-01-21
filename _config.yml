@@ -71,14 +71,19 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
-#theme_mode:   dark
+#theme_mode:   # [light|dark]
+theme_mode:   dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
+
+# 2023.01.21 
+# 이 아래 라인 주석처리하니 github.io 블로그 배포 자동화 과정에서
+# 에러가 발생합니다. 
+# 주석 처리 하지 마세요.
 img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
