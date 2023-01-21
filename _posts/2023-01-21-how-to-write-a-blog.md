@@ -34,5 +34,5 @@ this is my first Jekyll blog post.
 ```shell  
 curl -v telnet://localhost:443  
 ```  
-### 이미지 파일 삽입 테스트  
-![My helpful screenshot](/images/avatar.jpg)  
+### 이미지 파일 삽입 테스트
+<img align="left" src="/images/avatar.jpg">
