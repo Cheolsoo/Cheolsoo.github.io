@@ -40,7 +40,7 @@ curl -v telnet://localhost:443
 
 
 ### 이미지 파일 테스트 - html code  
-![큰 이미지 파일](/assets/attachments/Pasted%20image%2020230119175919.png){: w="350" h="200"}{: .left }  
+![큰 이미지 파일](/assets/attachments/Pasted%20image%2020230119175919.png){: w="700" h="400"}  
 
 ### 이미지 테스트 3번째  
 ![작은 이미지](/assets/attachments/logo-watch-robot.jpg){: .left }   
