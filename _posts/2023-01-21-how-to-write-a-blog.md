@@ -1,7 +1,7 @@
 ---
 layout: post  
 title:  "제클 테마 사용을 환영합니다!"  
-tag: [#텀블러, #써모스, #맥주, #캔맥주, #얼음, #골프, #골프장, #시장]
+tag: [텀블러, 써모스, 맥주, 캔맥주, 얼음, 골프, 골프장, 시장]
 ---  
   
 # Welcome  
@@ -39,11 +39,11 @@ curl -v telnet://localhost:443
 ![My helpful screenshot](/images/avatar.jpg)  
 
 
-### 이미지 파일 테스트 - html code    
-<img align="left" src="/assets/attachments/Pasted image 20230119175919.png">  
+### 이미지 파일 테스트 - html code  
+![큰 이미지 파일](/assets/attachments/Pasted%20image%2020230119175919.png){: w="350" h="200"}{: .left }  
 
 ### 이미지 테스트 3번째  
-<img align="left" src="/assets/attachments/logo-watch-robot.jpg">  
+![작은 이미지](/assets/attachments/logo-watch-robot.jpg){: .left }   
 
 어찌 잘 될랑가?  
 고고  
