@@ -39,4 +39,4 @@ curl -v telnet://localhost:443
 
 
 ### 이미지 파일 테스트 - html code    
-<img align="left" src="/images/9.jpg">
+<img align="left" src="../../images/9.jpg">  
